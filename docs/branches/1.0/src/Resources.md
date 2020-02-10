@@ -53,15 +53,15 @@ Un autre service en ligne de génération de polices de glyphes.
 ## Banques d'images
 [Picsum](https://picsum.photos/images)
 
+[Pixabay](https://pixabay.com/)
+
+[Unsplash](https://unsplash.com/)
+
 [Pexels](https://www.pexels.com/)
 
 [Stocksnap](https://stocksnap.io/)
 
-[Pixabay](https://pixabay.com/)
-
 [Foter](https://foter.com/)
-
-[Unsplash](https://unsplash.com/)
 
 [Splitshire](https://www.splitshire.com/)
 
