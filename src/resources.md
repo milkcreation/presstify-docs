@@ -77,10 +77,25 @@ Un autre service en ligne de génération de polices de glyphes.
 
 [ISO Republic](https://isorepublic.com/)
 
+## Banques d'icônes
+
+[Icon Monstr](https://iconmonstr.com/)
+
+[FlatIcon](https://www.flaticon.com/)
+
+## Banques logos de marques
+
+[BrandEPS](https://www.brandeps.com/)
+
+[SeekLogo](https://seeklogo.com/)
+
 ## Optimisation d'images
+
 [Optimizilla](https://imagecompressor.com)
 
 ## Convertion d'images
+[Convertio](https://convertio.co)
+
 [SvgToPng](https://svgtopng.com)
 
 [IcoConvert](https://icoconvert.com)
