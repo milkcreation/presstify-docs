@@ -1,0 +1,37 @@
+{
+  "name": "presstify-components/docs",
+  "description": "Documentation PresstiFy.",
+  "type": "presstify-component",
+  "keywords": [
+    "presstify",
+    "documentation"
+  ],
+  "homepage": "https://svn.tigreblanc.fr/presstify-components/docs",
+  "time": "2020-03-18",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Jordy Manner",
+      "email": "jordy.manner@milkcreation.fr",
+      "role": "Developper"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://composer.tigreblanc.fr/presstify"
+    }
+  ],
+  "require": {
+    "php": "^7.2",
+    "composer/installers": "~1.0",
+    "erusev/parsedown-extra": "^0.8.1"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "config": {
+    "optimize-autoloader": true,
+    "preferred-install": "dist",
+    "sort-packages": true
+  }
+}
