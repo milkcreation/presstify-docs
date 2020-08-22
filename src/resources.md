@@ -2,7 +2,7 @@
 
 ## Générateur de textes
 
-### Loripsum
+### Loripsum 
 
 [Site officiel](https://loripsum.net)
 
