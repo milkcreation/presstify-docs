@@ -7,7 +7,7 @@
     "documentation"
   ],
   "homepage": "https://svn.tigreblanc.fr/presstify-components/docs",
-  "time": "2020-03-18",
+  "time": "2020-08-22",
   "license": "proprietary",
   "authors": [
     {
@@ -24,10 +24,8 @@
   ],
   "require": {
     "php": "^7.2",
-    "composer/installers": "~1.0"
-  },
-  "suggest": {
-    "erusev/parsedown-extra": "Parser Markdown (dépréciation composer 2.0)"
+    "composer/installers": "~1.0",
+    "erusev/parsedown": "^1.7"
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
