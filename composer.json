@@ -6,20 +6,14 @@
     "presstify",
     "documentation"
   ],
-  "homepage": "https://svn.tigreblanc.fr/presstify-components/docs",
-  "time": "2020-08-22",
+  "homepage": "https://github.com/milkcreation/presstify-docs.git",
+  "time": "2021-09-13",
   "license": "proprietary",
   "authors": [
     {
       "name": "Jordy Manner",
       "email": "jordy.manner@milkcreation.fr",
       "role": "Developper"
-    }
-  ],
-  "repositories": [
-    {
-      "type": "composer",
-      "url": "https://composer.tigreblanc.fr/presstify"
     }
   ],
   "require": {
